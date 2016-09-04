@@ -1,1 +1,3 @@
 name: Yee Design - Bespoke Front End Web Development
+
+permalink: /blog/:year/:month/:day/:title
